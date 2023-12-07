@@ -1,1 +1,3 @@
-# pharaasltd.github.io
+# Pharaas
+
+Pharmacy as a Service. Under heavy development.
